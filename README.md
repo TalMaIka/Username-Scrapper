@@ -1,4 +1,4 @@
-# Username Scrapper
+# ![Screenshot 1](src/rake.png) Username Scrapper
 
 Username Scrapper is a Java application that collects usernames from a specified memberlist URL and displays them in a user-friendly interface.
 
