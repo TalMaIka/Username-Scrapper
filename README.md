@@ -1,6 +1,6 @@
-# Link Collector
+# Username Scrapper
 
-Link Collector is a Java application that collects links from a specified URL and displays them in a user-friendly interface.
+Username Scrapper is a Java application that collects usernames from a specified memberlist URL and displays them in a user-friendly interface.
 
 ## Features
 
@@ -26,7 +26,6 @@ Link Collector is a Java application that collects links from a specified URL an
 ## Screenshots
 
 ![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
 
 ## Contributing
 
