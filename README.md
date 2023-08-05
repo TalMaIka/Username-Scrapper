@@ -25,7 +25,7 @@ Username Scrapper is a Java application that collects usernames from a specified
 
 ## Screenshots
 
-![Screenshot 1](screenshot1.png)
+![Screenshot 1](Username Scrapper.gif)
 
 ## Contributing
 
