@@ -23,7 +23,7 @@ Username Scrapper is a Java application that collects usernames from a specified
 - [Jsoup](https://jsoup.org/) - Java library for working with HTML.
 - [FlatLaf](https://www.formdev.com/flatlaf/) - Java look and feel library.
 
-## Screenshots
+## Example Runtime GIF 
 
 ![Screenshot 1](Runtime.gif)
 
